@@ -1,0 +1,46 @@
+
+table
+{
+
+    /*border-collapse: collapse;*/
+    position : absolute;
+    border: medium solid white;
+    width: 80%;
+
+
+}
+
+th
+{
+
+ font-family: monospace;
+ border: 1px solid black;
+ text-align : center;
+ background-color: white;
+ color:  #80D0D0;
+}
+
+td /* Mettre une bordure sur les td ET les th */
+{
+   
+    /*border: 1p,thin solid white;*/
+    font-size: 15px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+
+}
+
+
+caption {
+  text-align : center;
+  background-color: #80D0D0;
+  color : white;
+}
+
+/*#u15211-4
+{
+     position: fixed;
+     bottom: 0;
+     left: 0;
+     width: 100%;
+}*/
+
